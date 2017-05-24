@@ -1,2 +1,1 @@
-console.log("haha");
-console.log("ooo");
+alert("123");
