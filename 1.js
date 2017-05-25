@@ -1,1 +1,3 @@
-alert("123");
+function(){
+	alert(123)
+}
